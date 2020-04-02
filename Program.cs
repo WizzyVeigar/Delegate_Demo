@@ -19,7 +19,6 @@ namespace Delegate_Demo
             sql.Open();
             Console.WriteLine("works");
             sql.Close();
-
             Console.ReadLine();
         }
 
